@@ -1,3 +1,3 @@
-# cs231n_assighment2
+# cs231n_assighment3
 
-Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #2 of Spring 2020`.
+Details about this assignment can be found on the [course webpage](https://cs231n.github.io/assignments2021/assignment2/), under Assignment #2 of Spring 2020`.
